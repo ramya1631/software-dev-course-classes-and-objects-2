@@ -41,6 +41,3 @@ public class BetterStudentManager {
         return result.toString();
     }
 }
-
-
-
